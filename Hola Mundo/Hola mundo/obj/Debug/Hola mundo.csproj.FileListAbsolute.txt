@@ -1,0 +1,10 @@
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csprojAssemblyReference.cache
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Form1.resources
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Properties.Resources.resources
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.GenerateResource.cache
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.CoreCompileInputs.cache
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+D:\Proyectos\DAW2\curso diseño interfaces\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
