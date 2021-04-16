@@ -1,0 +1,10 @@
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\bin\Debug\GuardarSettings.exe.config
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\bin\Debug\GuardarSettings.exe
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\bin\Debug\GuardarSettings.pdb
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.Form1.resources
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.exe
+D:\Proyectos\diseno Interfaces\GuardarSettings\GuardarSettings\obj\Debug\GuardarSettings.pdb

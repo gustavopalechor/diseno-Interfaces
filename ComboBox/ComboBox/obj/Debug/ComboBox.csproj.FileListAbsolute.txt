@@ -1,0 +1,10 @@
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+D:\Proyectos\diseno Interfaces\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

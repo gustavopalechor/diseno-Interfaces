@@ -1,0 +1,9 @@
+D:\Proyectos\diseno Interfaces\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Proyectos\diseno Interfaces\Menu\Menu\bin\Debug\Menu.exe
+D:\Proyectos\diseno Interfaces\Menu\Menu\bin\Debug\Menu.pdb
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.exe
+D:\Proyectos\diseno Interfaces\Menu\Menu\obj\Debug\Menu.pdb

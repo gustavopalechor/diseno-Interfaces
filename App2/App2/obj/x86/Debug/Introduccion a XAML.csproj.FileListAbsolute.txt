@@ -1,0 +1,45 @@
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\App.xbf
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\MainPage.xbf
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\App2.xr.xml
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\App2.exe
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\App2.pdb
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\resources.pri
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\AppxManifest.xml
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\Core\App2.exe
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\Core\AppxManifest.xml
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\Introduccion a XAML.build.appxrecipe
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\System.Runtime.dll
+D:\Proyectos\diseno Interfaces\App2\App2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\Introduccion a XAML.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App.g.i.cs
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App.g.cs
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\MainPage.g.cs
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App.xaml
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\MainPage.xaml
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App.xbf
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\MainPage.xbf
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\Introduccion a XAML.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\Introduccion a XAML.csproj.CopyComplete
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App2.exe
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\App2.pdb
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\ResourceHandlingTask.state
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\priconfig.xml
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\filtered.layout.resfiles
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\excluded.layout.resfiles
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\resources.resfiles
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\pri.resfiles
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\qualifiers.txt
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
+D:\Proyectos\diseno Interfaces\App2\App2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json

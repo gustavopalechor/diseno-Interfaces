@@ -1,0 +1,11 @@
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\bin\Debug\comunicaFormas.exe.config
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\bin\Debug\comunicaFormas.exe
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\bin\Debug\comunicaFormas.pdb
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.Form1.resources
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.Form2.resources
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.exe
+D:\Proyectos\diseno Interfaces\comunicaFormas\comunicaFormas\obj\Debug\comunicaFormas.pdb
