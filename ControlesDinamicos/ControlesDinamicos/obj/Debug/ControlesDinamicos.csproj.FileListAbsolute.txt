@@ -1,0 +1,10 @@
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\bin\Debug\ControlesDinamicos.exe.config
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\bin\Debug\ControlesDinamicos.exe
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\bin\Debug\ControlesDinamicos.pdb
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.ControlesDinamicos.resources
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.exe
+D:\Proyectos\diseno Interfaces\ControlesDinamicos\ControlesDinamicos\obj\Debug\ControlesDinamicos.pdb

@@ -1,0 +1,34 @@
+﻿
+
+@{
+    ViewBag.Title = "Libros";
+}
+
+@model WebApplication2.Models.Libros
+    <h3>@ViewBag.Message</h3>
+
+<section class="content">
+    @using (Html.BeginForm("Libros", "Home", FormMethod.Post))
+    {<div class="form-group">
+            @Html.LabelFor(m => m.Titulo, "Titulo")
+            @Html.TextBoxFor(m => m.Titulo, new { @class = "form-control", placeholder = "Título del libro" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Autor, "Autor")
+            @Html.TextBoxFor(m => m.Autor, new { @class = "form-control", placeholder = "Autor del libro" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Paginas, "Paginas")
+            @Html.TextBoxFor(m => m.Paginas, new { @class = "form-control", placeholder = "Número de páginas del libro" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Editorial, "Editorial")
+            @Html.TextBoxFor(m => m.Editorial, new { @class = "form-control", placeholder = "Editorial del libro" })
+        </div>
+
+        <input type="submit" class="btn btn-primary" value="Enviar" />
+    }
+</section>

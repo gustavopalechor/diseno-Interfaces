@@ -1,0 +1,10 @@
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\bin\Debug\ManejadorEventos.exe.config
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\bin\Debug\ManejadorEventos.exe
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\bin\Debug\ManejadorEventos.pdb
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.ManejadorEventos.resources
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.exe
+D:\Proyectos\diseno Interfaces\ManejadorEventos\ManejadorEventos\obj\Debug\ManejadorEventos.pdb

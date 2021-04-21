@@ -1,0 +1,10 @@
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\bin\Debug\MiBoton.exe.config
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\bin\Debug\MiBoton.exe
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\bin\Debug\MiBoton.pdb
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.csprojAssemblyReference.cache
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.Properties.Resources.resources
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.csproj.GenerateResource.cache
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.csproj.CoreCompileInputs.cache
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.exe
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.pdb
+D:\Proyectos\diseno Interfaces\MiBoton\MiBoton\obj\Debug\MiBoton.Form1.resources
